@@ -1,3 +1,3 @@
 # Pair-Trading-Backtester
 
-co-integration + backtest 
+cointegration of two most aligned stocks up to date + backtest 
