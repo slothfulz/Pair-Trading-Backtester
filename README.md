@@ -42,7 +42,6 @@ pair-trading-backtester/
 │
 ├── cointegration.py     # Pair selection and statistical testing
 ├── backtest.py          # Trading strategy simulation and performance evaluation
-├── requirements.txt
 └── README.md
 ```
 
