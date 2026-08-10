@@ -1,4 +1,4 @@
-# Pair Trading Backtester
+# Pairs Trading Backtester
 
 A Python-based statistical arbitrage project that identifies cointegrated asset pairs and evaluates a mean-reversion pair trading strategy through historical backtesting. The project combines statistical testing with rolling regression and z-score-based signal generation to assess the viability of market-neutral trading strategies.
 
